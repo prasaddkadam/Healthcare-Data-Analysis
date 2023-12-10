@@ -1,7 +1,5 @@
 # Healthcare-Data-Analysis
 
-# Healthcare Data Analysis Project
-
 Welcome to the Healthcare Data Analysis project repository. This project focuses on analyzing healthcare data to derive meaningful insights and trends. The Jupyter notebook containing the complete work can be found in the [notebooks](./notebooks/) folder.
 
 ## Project Overview
@@ -16,7 +14,21 @@ Utilised the healthcare dataset for classification tasks, demonstrating competen
 
 ## Dependencies
 
-[List the key dependencies and libraries required to run the project.]
+This project relies on several Python libraries and packages for data analysis, machine learning, and visualization. To ensure a smooth execution, make sure you have the following dependencies installed:
+
+- **NumPy:** A powerful library for numerical operations in Python. Install it using: pip install numpy 
+- **Pandas:** A data manipulation and analysis library. Install it using: pip install pandas
+- **Matplotlib:** A comprehensive library for creating static, interactive, and animated plots. Install it using: pip install matplotlib
+- **Seaborn:** A statistical data visualization library based on Matplotlib. Install it using: pip install seaborn
+- **Scikit-Learn:** A machine learning library for various algorithms and tools. Install it using: pip install scikit-learn
+- **Imbalanced-Learn:** A library for dealing with imbalanced datasets, used here for ADASYN oversampling. Install it using: pip install imbalanced-learn
+- **XGBoost:** A scalable and accurate implementation of gradient boosting. Install it using: pip install xgboost
+- **Warnings:** A module for handling warnings during execution. Install it using: pip install warnings
+
+Please note that it's recommended to create a virtual environment before installing these packages to avoid conflicts with existing libraries. You can install the dependencies by running the respective `pip install` commands in your virtual environment.
+
+
+
 
 ## Contact
 LinkedIn: (https://www.linkedin.com/in/prasaddkadam)
