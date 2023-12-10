@@ -1,6 +1,6 @@
 # Healthcare-Data-Analysis
 
-Welcome to the Healthcare Data Analysis project repository. This project focuses on analyzing healthcare data to derive meaningful insights and trends. The Jupyter notebook containing the complete work can be found in the [notebooks](./notebooks/) folder.
+Welcome to the Healthcare Data Analysis project repository. This project focuses on analyzing healthcare data to derive meaningful insights and trends. The Jupyter notebook containing the complete work can be found in the [notebooks](./Notebooks/) folder.
 
 ## Project Overview
 
