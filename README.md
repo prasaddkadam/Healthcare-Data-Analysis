@@ -8,9 +8,9 @@ Utilised the healthcare dataset for classification tasks, demonstrating competen
 
 ## Project Structure
 
-- **Notebooks:** [Explore the Jupyter notebook here.](Notebooks/Complete Notebook.ipynb)
-- **Data:** [Link to the dataset used in the project.]
-- **Results:** [Include any output files or visualizations.]
+- **Notebooks:** [Explore the Jupyter notebook here.](./Notebooks/Complete%20Notebook.ipynb)
+- **Data:** [Link to the dataset used in the project.](./Data/)
+- **Charts:** [Graphs and Charts](./Charts/)
 
 ## Dependencies
 
