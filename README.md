@@ -6,7 +6,7 @@ Welcome to the Healthcare Data Analysis project repository. This project focuses
 
 ## Project Overview
 
-[Provide a brief overview of the project, its goals, and the dataset used.]
+Utilised the healthcare dataset for classification tasks, demonstrating competence in KDD software tools. Implemented data cleaning strategies, including the removal of features with ≥ 60% missing data, and applied supervised learning techniques (Decision Trees, Random Forest, SVM) for health condition classification. Emphasized model validation and evaluation, discussing precision and recall performance. Additionally, employed unsupervised clustering algorithms (e.g., K-means) to explore patterns in health status categories, showcasing a holistic approach to data analysis and interpretation.
 
 ## Project Structure
 
@@ -14,25 +14,9 @@ Welcome to the Healthcare Data Analysis project repository. This project focuses
 - **Data:** [Link to the dataset used in the project.]
 - **Results:** [Include any output files or visualizations.]
 
-## Getting Started
-
-[Instructions on how to set up the project locally for testing or development.]
-
 ## Dependencies
 
 [List the key dependencies and libraries required to run the project.]
-
-## Usage
-
-[Provide guidelines on how to use or reproduce the analysis.]
-
-## Contributing
-
-[Information for contributors if applicable.]
-
-## License
-
-[Specify the license for your project.]
 
 ## Contact
 LinkedIn: (https://www.linkedin.com/in/prasaddkadam)
