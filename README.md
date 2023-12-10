@@ -35,6 +35,5 @@ Welcome to the Healthcare Data Analysis project repository. This project focuses
 [Specify the license for your project.]
 
 ## Contact
-
-[Include your contact information if users have questions or want to connect.]
+LinkedIn: (https://www.linkedin.com/in/prasaddkadam)
 
